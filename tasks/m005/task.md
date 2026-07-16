@@ -1,0 +1,7 @@
+- [x] Configure /contacts/stores/index.php to return a real HTTP 404 status
+- [x] Update .bottom5.menu.php to point "Магазины" to /contacts/
+- [x] Update info/.left.menu.php to point "Магазины" to /contacts/
+- [x] Update STORE_PATH in /catalog/index.php to /contacts/
+- [x] Verify HTTP 404 response on the server for /contacts/stores/moskva/404/
+- [x] Run sitemap generation and post-processing verification
+- [ ] Commit and push the changes to Git repository
