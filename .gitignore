@@ -1,0 +1,25 @@
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# JSON caches and local query storage (optional, but keep templates/configs)
+# wordstat_cache.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+

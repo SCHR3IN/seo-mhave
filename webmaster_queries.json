@@ -1,0 +1,628 @@
+{
+  "count": 59,
+  "queries": [
+    {
+      "query_id": "302596acb4124cbb",
+      "query_text": "egeny",
+      "indicators": {
+        "TOTAL_SHOWS": 13.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 8.0
+      }
+    },
+    {
+      "query_id": "2c6a052262496d35",
+      "query_text": "коллаген egeny",
+      "indicators": {
+        "TOTAL_SHOWS": 14.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 9.285714285714286
+      }
+    },
+    {
+      "query_id": "6aaa246e582f4ee9",
+      "query_text": "egeny коллаген",
+      "indicators": {
+        "TOTAL_SHOWS": 10.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 8.8
+      }
+    },
+    {
+      "query_id": "e8567c7eb6c97277",
+      "query_text": "натуральный питьевой коллаген egeny с соком шиповника в стиках",
+      "indicators": {
+        "TOTAL_SHOWS": 7.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 7.285714285714286
+      }
+    },
+    {
+      "query_id": "96b00be35757979a",
+      "query_text": "atb lab",
+      "indicators": {
+        "TOTAL_SHOWS": 4.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 7.0
+      }
+    },
+    {
+      "query_id": "4f10ff6d4c9592b0",
+      "query_text": "egeny коллаген купить",
+      "indicators": {
+        "TOTAL_SHOWS": 4.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 10.0
+      }
+    },
+    {
+      "query_id": "0cfc4ee95973ef8d",
+      "query_text": "egeny energy коллаген",
+      "indicators": {
+        "TOTAL_SHOWS": 3.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 11.666666666666666
+      }
+    },
+    {
+      "query_id": "223fdbf7a37ee9ee",
+      "query_text": "troiareuke",
+      "indicators": {
+        "TOTAL_SHOWS": 2.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 11.5
+      }
+    },
+    {
+      "query_id": "415c83a2ec853d6c",
+      "query_text": "egeny контакты",
+      "indicators": {
+        "TOTAL_SHOWS": 3.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 12.333333333333334
+      }
+    },
+    {
+      "query_id": "6b0ea68de37a3068",
+      "query_text": "троярики косметика",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 12.0
+      }
+    },
+    {
+      "query_id": "acd43bde9fcdbd6e",
+      "query_text": "a.d.love коллаген",
+      "indicators": {
+        "TOTAL_SHOWS": 2.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 4.0
+      }
+    },
+    {
+      "query_id": "ca593bb32adecba1",
+      "query_text": "лед маска le maitre",
+      "indicators": {
+        "TOTAL_SHOWS": 2.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 27.5
+      }
+    },
+    {
+      "query_id": "f0a5e78f0d817d1d",
+      "query_text": "egeny янтарная кислота",
+      "indicators": {
+        "TOTAL_SHOWS": 2.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 10.0
+      }
+    },
+    {
+      "query_id": "f40c4100e1753905",
+      "query_text": "где в москве купить корейскую косметику премиального качества",
+      "indicators": {
+        "TOTAL_SHOWS": 2.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 8.5
+      }
+    },
+    {
+      "query_id": "f44da652d65c2fc3",
+      "query_text": "troiareuke косметика",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 9.0
+      }
+    },
+    {
+      "query_id": "04fae4c65319cc65",
+      "query_text": "ассен маска восстанавливающая",
+      "indicators": {
+        "TOTAL_SHOWS": 0.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": null
+      }
+    },
+    {
+      "query_id": "1593be0b4d570e50",
+      "query_text": "mhave",
+      "indicators": {
+        "TOTAL_SHOWS": 2.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 1.5
+      }
+    },
+    {
+      "query_id": "2ad96e8706ece709",
+      "query_text": "mawe космецевтика",
+      "indicators": {
+        "TOTAL_SHOWS": 2.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 10.5
+      }
+    },
+    {
+      "query_id": "3c64b3836d281d49",
+      "query_text": "troiareuke anti-wrinkle eye cream",
+      "indicators": {
+        "TOTAL_SHOWS": 2.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 7.5
+      }
+    },
+    {
+      "query_id": "5251e1fa84af7071",
+      "query_text": "троярика",
+      "indicators": {
+        "TOTAL_SHOWS": 0.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": null
+      }
+    },
+    {
+      "query_id": "5cb2ccdbe102017a",
+      "query_text": "г. москва, ул. ленинская слобода, д. 26, стр. 28, бизнес-центр \"слободской\"",
+      "indicators": {
+        "TOTAL_SHOWS": 2.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 11.5
+      }
+    },
+    {
+      "query_id": "61c638820aade903",
+      "query_text": "egeny колл",
+      "indicators": {
+        "TOTAL_SHOWS": 2.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 11.0
+      }
+    },
+    {
+      "query_id": "8a07f26ea2a85a2a",
+      "query_text": "troiareuke anti-wrinkle отзывы",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 2.0
+      }
+    },
+    {
+      "query_id": "8db51dd6a3233652",
+      "query_text": "питьевой коллаген egeny",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 8.0
+      }
+    },
+    {
+      "query_id": "a28f41e71410e1f6",
+      "query_text": "коллаген egeny малина",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 8.0
+      }
+    },
+    {
+      "query_id": "afb8e2c695735d22",
+      "query_text": "acsen",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 4.0
+      }
+    },
+    {
+      "query_id": "b2113b232e758a02",
+      "query_text": "сыворотка от пигментных пятен для лица super brigh",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 7.0
+      }
+    },
+    {
+      "query_id": "b4e3d3cb6821775f",
+      "query_text": "сыворотка от пигментных пятен для лица super brightening serum 30мл",
+      "indicators": {
+        "TOTAL_SHOWS": 0.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": null
+      }
+    },
+    {
+      "query_id": "b88ab1493a5f4cfc",
+      "query_text": "test.mhave",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 1.0
+      }
+    },
+    {
+      "query_id": "c8b74f84f0b8ecdf",
+      "query_text": "mhave.ru",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 2.0,
+        "AVG_SHOW_POSITION": 1.0
+      }
+    },
+    {
+      "query_id": "cd948c38caf3751b",
+      "query_text": "мхэв официальный сайт косметика контакты",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 1.0
+      }
+    },
+    {
+      "query_id": "d6de13829496fdda",
+      "query_text": "филорга купить в москве",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 6.0
+      }
+    },
+    {
+      "query_id": "d6f0785b01054ab9",
+      "query_text": "test.mhave.",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 2.0
+      }
+    },
+    {
+      "query_id": "dc9cb860e89928d8",
+      "query_text": "атб лаб",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 5.0
+      }
+    },
+    {
+      "query_id": "e609cd73b9eab0fe",
+      "query_text": "paese косметика",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 6.0
+      }
+    },
+    {
+      "query_id": "e66aee5e66a38be4",
+      "query_text": "магний с таурином со вкусом черной смородины",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 5.0
+      }
+    },
+    {
+      "query_id": "f85d58f1ec1df5ef",
+      "query_text": "консилер для лица",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 7.0
+      }
+    },
+    {
+      "query_id": "fb1056fd4ea9e8db",
+      "query_text": "troiareuke anti-wrinkle патчи для глаз отзывы",
+      "indicators": {
+        "TOTAL_SHOWS": 0.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": null
+      }
+    },
+    {
+      "query_id": "fea891b4e9f331c1",
+      "query_text": "troiareuke крем для лица универсальный, увлажняющий \"энергия клеток\" energy cream, 125 мл корея. купить в москве",
+      "indicators": {
+        "TOTAL_SHOWS": 0.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": null
+      }
+    },
+    {
+      "query_id": "ff67fa7e616ae8bf",
+      "query_text": "лед маска lifotronik",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 3.0
+      }
+    },
+    {
+      "query_id": "ffa5e755833e84e0",
+      "query_text": "atb lab биоинженер",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 11.0
+      }
+    },
+    {
+      "query_id": "01b1996fd174f317",
+      "query_text": "натуральный питьевой коллаген с нейтральным вкусом в стиках",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 10.0
+      }
+    },
+    {
+      "query_id": "0b171b437ff3042e",
+      "query_text": "troiareuke косметика официальный сайт",
+      "indicators": {
+        "TOTAL_SHOWS": 0.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": null
+      }
+    },
+    {
+      "query_id": "0fd991f5b07ee123",
+      "query_text": "egeny troipeel",
+      "indicators": {
+        "TOTAL_SHOWS": 0.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": null
+      }
+    },
+    {
+      "query_id": "1369499ea8379f4b",
+      "query_text": "a.d.love",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 7.0
+      }
+    },
+    {
+      "query_id": "144524da5a94a438",
+      "query_text": "test.mhave.ru",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 2.0
+      }
+    },
+    {
+      "query_id": "1698c59d67556ea6",
+      "query_text": "kincare +beautifuls",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 6.0
+      }
+    },
+    {
+      "query_id": "18da6d8594a6c455",
+      "query_text": "косметика xivowa",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 10.0
+      }
+    },
+    {
+      "query_id": "207ee46f3c10d606",
+      "query_text": "egeny 'ythutybr",
+      "indicators": {
+        "TOTAL_SHOWS": 0.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": null
+      }
+    },
+    {
+      "query_id": "223b48f4b24acd66",
+      "query_text": "коллаген egeny 7000 мг",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 6.0
+      }
+    },
+    {
+      "query_id": "232caad34ec21f0c",
+      "query_text": "atb косметика",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 12.0
+      }
+    },
+    {
+      "query_id": "2c105a2e0fc19548",
+      "query_text": "agt косметика купить",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 15.0
+      }
+    },
+    {
+      "query_id": "2caae28fc1f6fea9",
+      "query_text": "лед маска lifotronic инструкция по применению на русском",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 2.0
+      }
+    },
+    {
+      "query_id": "3291900d44d84787",
+      "query_text": "egenu коллаген питьевой персик",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 9.0
+      }
+    },
+    {
+      "query_id": "3d62858e9dad3790",
+      "query_text": "эжени косметика",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 2.0
+      }
+    },
+    {
+      "query_id": "3ec338fbf0465209",
+      "query_text": "мхаве это",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 1.0
+      }
+    },
+    {
+      "query_id": "447f2a487ac3f65d",
+      "query_text": "премиум косметика",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 7.0
+      }
+    },
+    {
+      "query_id": "4699dec950216aab",
+      "query_text": "troiareuke косметика купить",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 10.0
+      }
+    },
+    {
+      "query_id": "63cb18dca95e9235",
+      "query_text": "косметика для косметологов профессиональная",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 8.0
+      }
+    },
+    {
+      "query_id": "63e97c032703a9de",
+      "query_text": "mhave интернет магазин",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 1.0
+      }
+    },
+    {
+      "query_id": "645e9ea35544d3ac",
+      "query_text": "коллаген egeny вишня",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 2.0
+      }
+    },
+    {
+      "query_id": "647ff0cb0bf4affd",
+      "query_text": "средство вокруг глаз от морщин и темных кругов для мужчин",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 1.0,
+        "AVG_SHOW_POSITION": 6.0
+      }
+    },
+    {
+      "query_id": "68c03649e14e7bcc",
+      "query_text": "egeny.ru",
+      "indicators": {
+        "TOTAL_SHOWS": 0.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": null
+      }
+    },
+    {
+      "query_id": "723641a30d1a0968",
+      "query_text": "магний таурат ооо эжени",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 7.0
+      }
+    },
+    {
+      "query_id": "72688fde82bbdf19",
+      "query_text": "коллаген egeny нейтральный",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 3.0
+      }
+    },
+    {
+      "query_id": "73da10f415e24790",
+      "query_text": "желе с хондроитином",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 8.0
+      }
+    },
+    {
+      "query_id": "7a0e5623edf46a9b",
+      "query_text": "сыворотка от пигментных пятен для лица super",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 12.0
+      }
+    },
+    {
+      "query_id": "7ab1c1b798b00775",
+      "query_text": "accen маска отзывы",
+      "indicators": {
+        "TOTAL_SHOWS": 0.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": null
+      }
+    },
+    {
+      "query_id": "7cf8329a58ea311a",
+      "query_text": "троицке солнцезащитный крем гель спф 50 acsen",
+      "indicators": {
+        "TOTAL_SHOWS": 1.0,
+        "TOTAL_CLICKS": 0.0,
+        "AVG_SHOW_POSITION": 7.0
+      }
+    }
+  ],
+  "date_from": "2026-07-07",
+  "date_to": "2026-07-13"
+}

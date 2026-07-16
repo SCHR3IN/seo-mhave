@@ -1,0 +1,10 @@
+{
+  "name": "yandex-mcp-servers",
+  "version": "1.0.0",
+  "description": "Yandex Metrika and Webmaster MCP Servers",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1"
+  }
+}
