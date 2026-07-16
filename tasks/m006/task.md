@@ -1,0 +1,6 @@
+- [x] Create custom Nginx configuration block `sitemaps.conf`
+- [x] Apply Nginx configuration to production server
+- [x] Verify Nginx configuration and reload server
+- [x] Test sitemap file generation script
+- [x] Verify response codes and benchmark response times
+- [x] Commit changes and document walkthrough
