@@ -1,0 +1,12 @@
+=== EXCLUDED SITEMAP URLS ===
+https://mhave.ru/404.php | system error page
+https://mhave.ru/500.html | system error page
+https://mhave.ru/blog/novosti/mhave-ekosistema-zdorovya-i-krasoty-nash-brend-egeny-generalnyy-partnyer-festivalya-mednyy-vsadnik/ | HTTP status 404
+https://mhave.ru/blog/novosti/my-na-beauty-show-krasnodar/ | HTTP status 404
+https://mhave.ru/blog/novosti/my-zhdyem-vas-na-bad-expo/ | HTTP status 404
+https://mhave.ru/blog/novosti/nasha-komanda-v-tsentre-progressa-boksa/ | HTTP status 404
+https://mhave.ru/contacts/stores/moskovskaya-oblast/ | disallowed by robots.txt
+https://mhave.ru/contacts/stores/moskva/ | disallowed by robots.txt
+https://mhave.ru/contacts/stores/moskva/404/ | disallowed by robots.txt
+https://mhave.ru/include/licenses_detail.php | meta robots noindex: 'noindex, nofollow'
+https://mhave.ru/include/public_offer.php | meta robots noindex: 'noindex, nofollow'
