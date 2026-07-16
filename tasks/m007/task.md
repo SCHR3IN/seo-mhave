@@ -1,0 +1,4 @@
+- [x] Modify main page block to insert H1 tag
+- [x] Verify HTML output on homepage
+- [x] Check responsive layout on desktop/mobile
+- [x] Commit changes and document walkthrough
