@@ -1,0 +1,3 @@
+- [x] Draft SEO templates specification (seo_templates_spec.md)
+- [x] Verify template examples and priority rules
+- [x] Commit changes and document walkthrough
