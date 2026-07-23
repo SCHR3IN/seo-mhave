@@ -5,6 +5,32 @@ import {
   ListToolsRequestSchema,
 } from "@modelcontextprotocol/sdk/types.js";
 
+import fs from 'fs';
+import path from 'path';
+
+function loadEnv() {
+  try {
+    const envPath = path.join(process.cwd(), '.env');
+    if (fs.existsSync(envPath)) {
+      const content = fs.readFileSync(envPath, 'utf8');
+      content.split('\n').forEach(line => {
+        const match = line.match(/^\s*([\w.\-]+)\s*=\s*(.*)?\s*$/);
+        if (match) {
+          const key = match[1];
+          let value = match[2] || '';
+          if (value.length > 0 && value.startsWith('"') && value.endsWith('"')) {
+            value = value.substring(1, value.length - 1);
+          }
+          process.env[key] = value;
+        }
+      });
+    }
+  } catch (e) {
+    console.error("Failed to load local .env:", e);
+  }
+}
+loadEnv();
+
 const token = process.env.YANDEX_METRIKA_TOKEN;
 const defaultCounterId = process.env.YANDEX_METRIKA_COUNTER;
 

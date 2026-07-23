@@ -81,6 +81,12 @@
 | `tasks/m003/webmaster_queries.json` | Выгрузка сырых запросов из API Яндекс Вебмастер | Данные (JSON) |
 | `tasks/m003/metrika_queries.json` | Выгрузка сырых поисковых фраз из API Яндекс Метрика | Данные (JSON) |
 | `tasks/m003/test_wordstat.py` | Скрипт тестирования API Wordstat и кеша базы данных | Скрипт (Python) |
+| `tasks/m008/seo_templates_spec.md` | Техническое задание на шаблоны мета-тегов и H1 | Документация |
+| `tasks/m009/README.md` | Отчет о программном внедрении SEO-шаблонов в 1С-Битрикс | Документация |
+| `local/php_interface/classes/MhaveSeoTemplates.php` | Класс автогенерации и подстановки SEO-шаблонов | Код (PHP) |
+| `local/php_interface/init.php` | Инициализатор событий Bitrix OnEpilog для SEO-шаблонов | Код (PHP) |
+| `m008_seo_templates_comparison_and_forecast.xlsx` | Таблица полного реестра 235 URL с мета-тегами ДО и ПОСЛЕ | База данных (XLSX) |
 | `fix_redirects.py` | Скрипт для массовой валидации и автоматического исправления редиректов | Скрипт (Python) |
 | `guidelines/` | Папка со стандартами микроразметки, структуры каталога и фильтров | Справочники |
 | `mcp/` | Готовый MCP-сервер для интеграции инструментов SEO в AI-сессии | Код (Node.js) |
+
